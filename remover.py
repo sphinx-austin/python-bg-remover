@@ -14,3 +14,6 @@ inp = Image.open(input_path)
 
 # passing the input image "inp" to remove the bg 
 output = remove(inp)
+
+# saving the output image with the background removed
+output.save(output_path)
