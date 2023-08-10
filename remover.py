@@ -17,3 +17,6 @@ output = remove(inp)
 
 # saving the output image with the background removed
 output.save(output_path)
+
+# background removed image
+Image.open(".png")
