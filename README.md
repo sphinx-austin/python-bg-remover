@@ -1,3 +1,3 @@
 ## python-bg-remover
 
-Documentation coming soon..
+- Documentation coming soon..
